@@ -158,6 +158,6 @@ The server exposes the following REST API endpoints:
 
 <img width="1919" height="899" alt="image" src="https://github.com/user-attachments/assets/cb591019-40e9-4768-b5e7-2048fa4c53c8" />
 
-<img width="1900" height="887" alt="image" src="https://github.com/user-attachments/assets/ed2026f8-2f42-422f-bd24-1f84853c3282" />
+<img width="1900" height="887" alt="image" src="Screenshot_29-10-2025_223546_videocallapp-frontend-ckk3.onrender.com.jpeg" />
 
 
