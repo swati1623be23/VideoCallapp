@@ -25,9 +25,7 @@ VideoCallApp is a full-stack, real-time video conferencing application designed 
     -   **Meeting Settings:** Configure meeting policies like requiring admin admission and muting participants on entry.
 -   **Responsive UI:** A clean and responsive user interface built with Tailwind CSS, featuring adaptive video grid layouts.
 
-## Live Demo Video Link
 
-https://drive.google.com/file/d/1_uwOdAaLa47V4hz6YLmzRXXDfKKTpo6J/view?usp=sharing
 
 ## Deployed Link
 
